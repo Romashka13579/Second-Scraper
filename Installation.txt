@@ -1,0 +1,8 @@
+pip install selenium
+pip install undetected_chromedriver
+pip install python-telegram-bot
+pip install python-telegram-bot --upgrade
+pip install setuptools
+
+
+chrome://version/
